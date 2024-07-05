@@ -26,6 +26,9 @@ Untuk Gambar di bawah bisa mengklik bagian **Setting** untuk mengubah latar bela
 
 ![GAMBAR 2](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/e2db1456-1a61-4ed9-9622-8a4975fbb3b6)
 
+![GAMBAR 3](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/3486e5e9-7686-46ed-b358-78bdebe61700)
+
+
 
 
 
