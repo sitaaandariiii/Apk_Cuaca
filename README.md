@@ -20,7 +20,7 @@ Tampilan Pertama Apk Cuaca
 
 ![gambar 1 android](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/284f30f9-41fe-497b-9590-b821eadeaafd)
 
-Untuk Gambar di bawah bisa mengklik bagian **"Setting"** untuk mengubah latar belakang atau Background Apk dengan Warna **"Black"** dan **"White Blue"**
+Untuk Gambar di bawah bisa mengklik bagian **"Setting"** untuk mengubah latar belakang atau Background Apk dengan Warna **"Black"** dan **"Blue White"**
 
 ![GAMBAR 2](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/e2db1456-1a61-4ed9-9622-8a4975fbb3b6)
 
@@ -39,6 +39,16 @@ Selanjutnya **"Klik Enter"**, lalu akan menampilkan **"Rincian Cuaca"** dari **"
 ![gambar 6](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/14ea71b3-c003-4b05-8346-ab6677636319)
 
 ![gambar 7](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/1b9fe11c-cfb8-4c47-8184-4e9acb208155)
+
+Selanjutnya Tampilan dengan warna **"Blue White"** pada latar belakang atau background dari Apk Cuaca ini dan melakukan **"Search"** kota lain misal **"Kota Bandung"**
+
+![gambar 8](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/2fbb2e53-9e3a-43bf-b311-30830fbc08f8)
+
+![gambar 9](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/d7d79090-50d9-4b44-8e93-8b1b64bd0e26)
+
+![gambar 10](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/ca34d59a-1435-4d75-8562-bcd4444424c3)
+
+
 
 
 
