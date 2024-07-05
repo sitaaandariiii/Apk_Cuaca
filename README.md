@@ -28,6 +28,24 @@ Untuk Gambar di bawah bisa mengklik bagian **Setting** untuk mengubah latar bela
 
 ![GAMBAR 3](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/3486e5e9-7686-46ed-b358-78bdebe61700)
 
+Untuk selanjutnya bisa search **Kota** yang akan di deteksi :
+
+![GAMBAR 4](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/edadc1fd-675f-4d73-bb3e-0eb07537bc75)
+
+Misal **Kota Garut**
+
+![gambar 5](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/7b05de8d-71c3-472a-a3d0-35ace20bda94)
+
+Selanjutnya **Klik Enter**, lalu akan menampilkan **Rincian Cuaca** dari **Kota Garut**
+
+![gambar 7](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/1b9fe11c-cfb8-4c47-8184-4e9acb208155)
+
+![gambar 6](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/14ea71b3-c003-4b05-8346-ab6677636319)
+
+
+
+
+
 
 
 
