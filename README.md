@@ -16,8 +16,7 @@ Siti Sarah Annashriyah 2106046
 **Tampilan Apk Cuaca**
 
 
-
-                                          Tampilan Pertama Apk Cuaca
+Tampilan Pertama Apk Cuaca
 
 ![gambar 1 android](https://github.com/sitaaandariiii/Apk_Cuaca/assets/127017772/284f30f9-41fe-497b-9590-b821eadeaafd)
 
